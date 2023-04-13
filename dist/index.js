@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Import form domain",class{});class o{start(){console.log("game started")}}console.log("import from game",o),console.log("import from game",class{}),console.log("import from game",(function(){})),console.log("import from game",(function(){})),(new o).start()})();
